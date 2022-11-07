@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<customer>
+    <customer>
+        <id>1</id>
+        <userId>1</userId>
+        <email>shira111@gmail.com</email>
+        <firstName>Shirapp;;;klkl</firstName>
+        <lastName>Le444viaaa</lastName>
+        <date>11/09/2022</date>
+        <phone>999999999</phone>
+        <bankAccount>33ff3399999</bankAccount>
+    </customer>
+    <customer>
+        <id>2</id>
+        <userId>1</userId>
+        <email>michal@gmail.com</email>
+        <firstName>Michallllll</firstName>
+        <lastName>Cohen909opop</lastName>
+        <date>07/11/2022</date>
+        <phone>0548506787</phone>
+        <bankAccount>999999999</bankAccount>
+    </customer>
+    <customer>
+        <id>3</id>
+        <userId>2</userId>
+        <email>tamar@gmail.com</email>
+        <firstName>Tamar</firstName>
+        <lastName>Dikman</lastName>
+        <date>07/11/2022</date>
+        <phone>0548506787</phone>
+        <bankAccount>999999999</bankAccount>
+    </customer>
+</customer>

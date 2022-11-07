@@ -1,0 +1,24 @@
+
+    <users>
+    <user>
+        <id>1</id>
+        <email>shira@gmail.com</email>
+        <firstName>Shira</firstName>
+        <lastName>Levi</lastName>
+        <password>123456s!</password>
+    </user>
+    <user>
+        <id>2</id>
+        <email>michal@gmail.com</email>
+        <firstName>Michal</firstName>
+        <lastName>Cohen</lastName>
+        <password>78912s!</password>
+    </user>
+    <user>
+        <id>3</id>
+        <email>tamar@gmail.com</email>
+        <firstName>Tamar</firstName>
+        <lastName>Dikman</lastName>
+        <password>567890s!</password>
+    </user>
+    </users>
